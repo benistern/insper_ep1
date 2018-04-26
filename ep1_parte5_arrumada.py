@@ -2,7 +2,7 @@
 """
 Created on Fri Apr 20 11:10:38 2018
 
-@author: beni stern
+@authors: beni stern, elie svoll, luis felipe valente
 """
 import json
 
